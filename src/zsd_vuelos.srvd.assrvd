@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition vuelos'
+define service ZSD_vuelos {
+  expose Za_VUELOS as vuelos;
+}
