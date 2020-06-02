@@ -89,49 +89,6 @@
      <MASK>  CHAR</MASK>
     </DD03P>
    </DD03P_TABLE>
-   <LONGTEXTS>
-    <item>
-     <DOKIL>
-      <ID>TB</ID>
-      <OBJECT>ZSCARR</OBJECT>
-      <LANGU>D</LANGU>
-      <TYP>E</TYP>
-      <VERSION>0001</VERSION>
-      <TXTLINES>00002</TXTLINES>
-      <DOKSTATE>A</DOKSTATE>
-     </DOKIL>
-     <HEAD>
-      <TDOBJECT>DOKU</TDOBJECT>
-      <TDNAME>ZSCARR</TDNAME>
-      <TDID>TB</TDID>
-      <TDSPRAS>D</TDSPRAS>
-      <TDFORM>S_DOCU_SHOW</TDFORM>
-      <TDSTYLE>S_DOCUS1</TDSTYLE>
-      <TDVERSION>00001</TDVERSION>
-      <TDLINESIZE>072</TDLINESIZE>
-     </HEAD>
-     <LINES>
-      <TLINE>
-       <TDFORMAT>U1</TDFORMAT>
-       <TDLINE>&amp;USE&amp;</TDLINE>
-      </TLINE>
-      <TLINE>
-       <TDFORMAT>AS</TDFORMAT>
-       <TDLINE>Diese Tabelle wird im Rahmen der ABAP/4-Schulungen verwendet. Sie ent-</TDLINE>
-      </TLINE>
-      <TLINE>
-       <TDLINE>hält die Bezeichnungen für Fluggesellschaften sowie deren Langnamen.</TDLINE>
-      </TLINE>
-      <TLINE>
-       <TDFORMAT>U1</TDFORMAT>
-       <TDLINE>&amp;MAINTENANCE&amp;</TDLINE>
-      </TLINE>
-      <TLINE>
-       <TDFORMAT>AS</TDFORMAT>
-      </TLINE>
-     </LINES>
-    </item>
-   </LONGTEXTS>
   </asx:values>
  </asx:abap>
 </abapGit>
